@@ -8,7 +8,7 @@
 
 1. Fork and clone this repository.
 
-2. Set up npm, dotenv, express, ejs and your gitignore file
+2. Set up npm, dotenv, express and your gitignore file
 
 3. Set up the connection to mongodb
 
