@@ -21,11 +21,11 @@
 - img_url: String
 
 5. Create routes
-  - Show all entries
-  - Show one entry
-  - Create new entry
-  - Edit entry details
-  - Delete an entry
+  a. Show all entries
+  b. Show one entry
+  c. Create new entry
+  d. Edit entry details
+  e. Delete an entry
   
 6. Use `npm start` to start a server that will serve up your new application (remember the changes to be made in your package.json).
 
