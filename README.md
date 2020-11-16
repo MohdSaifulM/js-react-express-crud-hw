@@ -20,15 +20,17 @@
 - style: String
 - img_url: String
 
-5. Create routes: Show all, Show one, Create new, Edit and Delete.
+5. Add the content of the buildings.js file to you database. You can either seed or use postman.
+
+6. Create routes: Show all, Show one, Create new, Edit and Delete.
   
-6. Use `npm start` to start a server that will serve up your new application (remember the changes to be made in your package.json).
+7. Use `npm start` to start a server that will serve up your new application (remember the changes to be made in your package.json).
 
-7. Create your react app and start building your front-end
+8. Create your react app and start building your front-end
 
-8. Check it out on [http://localhost:3000](http://localhost:3000)
+9. Check it out on [http://localhost:3000](http://localhost:3000)
 
-9. As you progress with this exercise, check the webpage to make sure that your changes are being accurately reflected.
+10. As you progress with this exercise, check the webpage to make sure that your changes are being accurately reflected.
 
 ## Goal
 
